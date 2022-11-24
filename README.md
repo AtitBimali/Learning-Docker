@@ -9,10 +9,12 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 ## Prerequisites
 Proficiency with the Linux CLI. A broad understanding of Linux system administration.
 
-### Dependencies
+## Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+### Supported Platforms:
+* Linux --[System Requirements](https://docs.docker.com/desktop/install/linux-install/)
+* macOS --[System Requirements](https://docs.docker.com/desktop/install/mac-install/)
+* Desktop --[System Requirements](https://docs.docker.com/desktop/install/windows-install/)
 
 ### Installing
 
